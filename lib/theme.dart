@@ -5,6 +5,7 @@ Color whiteColor = Color(0xffFFFFFF);
 Color coolGreytColor = Color(0xff8997B8);
 Color oxfordBluetColor = Color(0xff04112F);
 Color azureBluetColor = Color(0xff007DFF);
+Color indBluetColor = Color(0xff4D5B7C);
 
 TextStyle title1TextStyle = GoogleFonts.poppins(
   color: whiteColor,
